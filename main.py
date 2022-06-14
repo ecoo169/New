@@ -18,4 +18,6 @@ a = 5
 if a == 5:
     print('a=5')
 
+b = 19
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
