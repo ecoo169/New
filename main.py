@@ -20,4 +20,5 @@ if a == 5:
 
 b = 19
 
+c = 7
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
